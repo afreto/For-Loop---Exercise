@@ -6,7 +6,7 @@ namespace _04._Histogram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
