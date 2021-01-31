@@ -6,7 +6,22 @@ namespace _02._Half_Sum_Element
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n = int.Parse(Console.ReadLine());
+            int maxVal = int.MinValue;
+
+
+
+            for (int i = 0; i < n; i++)
+            {
+                int num = int.Parse(Console.ReadLine());
+
+
+
+
+
+
+
+            }
         }
     }
 }
