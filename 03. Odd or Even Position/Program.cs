@@ -16,10 +16,8 @@ namespace _03._Odd_or_Even_Position
             for (int i = 1; i <= n; i++)
             {
                 double num = double.Parse(Console.ReadLine());
-                //check is even or odd
                 if (i % 2 == 0)
                 {
-                    //is even 
                     sumEven += num;
                     if (num < minEven)
                     {
@@ -32,7 +30,6 @@ namespace _03._Odd_or_Even_Position
                 }
                 else
                 {
-                    //is odd
                     sumOdd += num;
                     if (num < minOdd)
                     {

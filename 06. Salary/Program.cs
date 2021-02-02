@@ -7,7 +7,7 @@ namespace _06._Salary
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             const int facebook = 150;
             const int instagram = 100;
             const int reddit = 50;
